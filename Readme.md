@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayyabar-rahman-khan&label=Profile%20views&color=0e75b6&style=flat" alt="tayyabar-rahman-khan" /> </p>
 
 <p align="center"> <h2>#Hi, I am Tayyabar Rahman Khan!<img height="60" width="60" src="https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/emotes/waving.gif"></h2></p>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 <i>I am a self taught <b>Developer</b>.</i>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
