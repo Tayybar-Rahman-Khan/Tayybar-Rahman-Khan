@@ -47,20 +47,20 @@
 
 ### 🔗 Connect with me:
 <p align="center">
-  <a href="https://linkedin.com/in/tayyabar-rahman-khan-3294591b0" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"/>
+  <a href="https://linkedin.com/in/tayyabar-rahman-khan-3294591b0" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
-  <a href="https://twitter.com/tayyabar_r_khan" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitter.svg" alt="Twitter" width="30" height="30"/>
+  <a href="https://twitter.com/tayyabar_r_khan" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://www.leetcode.com/its_tayyab_ali03" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="Leetcode" width="30" height="30"/>
+  <a href="https://www.leetcode.com/its_tayyab_ali03" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://www.hackerrank.com/tayyabarrahmank" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" alt="HackerRank" width="30" height="30"/>
+  <a href="https://www.hackerrank.com/tayyabarrahmank" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://instagram.com/its_tayyab_aly" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/instagram.svg" alt="Instagram" width="30" height="30"/>
+  <a href="https://instagram.com/its_tayyab_aly" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
   </a>
 </p>
 
