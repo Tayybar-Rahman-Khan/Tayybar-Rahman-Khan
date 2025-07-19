@@ -16,7 +16,7 @@
 ### 🔭 Currently:
 - 🧑‍💻 Web Developer | Java Spring Boot Enthusiast  
 - 📘 Learning: System Design, DSA & Microservices  
-- 🎓 Final year student at **Rustamji Institute of Technology**, ECE  
+- 🎓  Graduate of **Rustamji Institute of Technology**, ECE 
 - 🤖 Interested in: Backend Development, Analytics & Machine Learning
 
 ---
