@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋, I'm Tayyabar Rahman Khan!
+  Hi , I'm Tayyabar Rahman Khan!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
 </h1>
 
