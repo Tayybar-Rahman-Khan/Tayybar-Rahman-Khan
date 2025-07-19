@@ -1,4 +1,4 @@
-<img align = "center"> <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif">
+<img align = "center"> <img src="<p align="center"> <h2>#Hi, I am Tayyabar Rahman Khan!<img height="60" width="60" src="https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/emotes/waving.gif"></h2></p>">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayyabar-rahman-khan&label=Profile%20views&color=0e75b6&style=flat" alt="tayyabar-rahman-khan" /> </p>
 
