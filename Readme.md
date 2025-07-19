@@ -1,63 +1,69 @@
-<img align = "center"> <img src="<p align="center"> <h2>#Hi, I am Tayyabar Rahman Khan!<img height="60" width="60" src="https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/emotes/waving.gif"></h2></p>">
+<h1 align="center">
+  Hi 👋, I'm Tayyabar Rahman Khan!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tayyabar-rahman-khan&label=Profile%20views&color=0e75b6&style=flat" alt="tayyabar-rahman-khan" /> </p>
-
-<p align="center"> <h2>#Hi, I am Tayyabar Rahman Khan!<img height="60" width="60" src="https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/emotes/waving.gif"></h2></p>
-<h3 align="center">A passionate developer from India</h3>
-<i>I am a self taught <b>Developer</b>.</i>
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
-<br>
-<i>
-<ul>
-        <li>🔭 Web Developer,Python Programmer and Data Analytics Enthusiast.</li>
-        <li>💼 Currently persuing Fourth year of Bachelor's Degree in Electronics and Communication at Rustamji Institute of Technology .</li>
-        <li>🤔 Areas of Interest: Data Analytical, Machine Learning, Web Developing, Coding etc.</li>
-        <li>💬 Ask me about anything.</li>
-        <li>📫 You can reach me via <a target="_blank" href="https://www.linkedin.com/in/rohit-sahu-797657206/">LinkedIn</a>.</li>
-      </ul>
-</i>
-<br/>
-
-
-
-
-
-
-
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tayyabar-rahman-khan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h3 align="center">A passionate self-taught developer from India 🇮🇳</h3>
 
-<div align="center">
+---
 
-## Top Languages
-<a href="https://github.com/rohitsahu70">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tayybar-Rahman-Khan&theme=tokyonight&layout=compact">
-</a>
- </div>
- 
- <div align="center">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-## Github Stats
-<a href="https://github.com/Tayybar-Rahman-Khan">
-  <img align="center" alt="Rohit Sahu Github Stats" src="https://github-readme-stats.vercel.app/api?username=Tayybar-Rahman-Khan& show_icons=true&theme=tokyonight">
-</a>
-</div>
- 
-<div align="center">
+### 🔭 Currently:
+- 🧑‍💻 Web Developer | Java Spring Boot Enthusiast  
+- 📘 Learning: System Design, DSA & Microservices  
+- 🎓 Final year student at **Rustamji Institute of Technology**, ECE  
+- 🤖 Interested in: Backend Development, Analytics & Machine Learning
 
-## Follow Me At
-<a href="https://twitter.com/tayyabar_r_khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tayyabar_r_khan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tayyabar-rahman-khan-3294591b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tayyabar-rahman-khan-3294591b0" height="30" width="40" /></a>
-<a href="https://instagram.com/its_tayyab_aly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_tayyab_ali03" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/tayyabarrahmank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tayyabarrahmank" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/its_tayyab_ali03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="its_tayyab_ali03" height="30" width="40" /></a>
+---
 
+### 💻 Languages and Tools:
 
-<div align="center">
-<b>❤️ Thank you for visiting my Github Profile ❤️</b>
-</div>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</p>
 
+---
+
+### 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tayybar-Rahman-Khan&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tayybar-Rahman-Khan&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 🔗 Connect with me:
+<p align="center">
+  <a href="https://linkedin.com/in/tayyabar-rahman-khan-3294591b0" target="blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"/>
+  </a>
+  <a href="https://twitter.com/tayyabar_r_khan" target="blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitter.svg" alt="Twitter" width="30" height="30"/>
+  </a>
+  <a href="https://www.leetcode.com/its_tayyab_ali03" target="blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="Leetcode" width="30" height="30"/>
+  </a>
+  <a href="https://www.hackerrank.com/tayyabarrahmank" target="blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" alt="HackerRank" width="30" height="30"/>
+  </a>
+  <a href="https://instagram.com/its_tayyab_aly" target="blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/instagram.svg" alt="Instagram" width="30" height="30"/>
+  </a>
+</p>
+
+---
+
+<p align="center"><b>❤️ Thank you for visiting my GitHub Profile ❤️</b></p>
